@@ -18,7 +18,7 @@ PyHo
      :alt: Updates
 
 
-PyHo does everything!  PyHo is a library of rresuable methods.
+PyHo does everything!  PyHo is a library of reusable methods.
 
 
 * Free software: MIT license
